@@ -1,0 +1,14 @@
+C:\Users\87274\source\repos\Course\DataStructure\bin\Debug\DataStructure.exe.config
+C:\Users\87274\source\repos\Course\DataStructure\bin\Debug\DataStructure.exe
+C:\Users\87274\source\repos\Course\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\87274\source\repos\Course\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
+C:\Users\87274\source\repos\Course\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\87274\source\repos\Course\DataStructure\obj\Debug\DataStructure.exe
+C:\Users\87274\source\repos\Course\DataStructure\obj\Debug\DataStructure.pdb
+C:\Users\87274\source\repos\03\DataStructure\bin\Debug\DataStructure.exe.config
+C:\Users\87274\source\repos\03\DataStructure\bin\Debug\DataStructure.exe
+C:\Users\87274\source\repos\03\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\87274\source\repos\03\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
+C:\Users\87274\source\repos\03\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\87274\source\repos\03\DataStructure\obj\Debug\DataStructure.exe
+C:\Users\87274\source\repos\03\DataStructure\obj\Debug\DataStructure.pdb

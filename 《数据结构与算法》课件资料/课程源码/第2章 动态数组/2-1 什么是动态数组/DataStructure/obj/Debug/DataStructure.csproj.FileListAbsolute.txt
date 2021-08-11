@@ -1,0 +1,14 @@
+C:\Users\87274\source\repos\Course\DataStructure\bin\Debug\DataStructure.exe.config
+C:\Users\87274\source\repos\Course\DataStructure\bin\Debug\DataStructure.exe
+C:\Users\87274\source\repos\Course\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\87274\source\repos\Course\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
+C:\Users\87274\source\repos\Course\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\87274\source\repos\Course\DataStructure\obj\Debug\DataStructure.exe
+C:\Users\87274\source\repos\Course\DataStructure\obj\Debug\DataStructure.pdb
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\数据结构\《数据结构与算法》课件资料\课程源码\第2章 动态数组\2-1 什么是动态数组\DataStructure\bin\Debug\DataStructure.exe.config
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\数据结构\《数据结构与算法》课件资料\课程源码\第2章 动态数组\2-1 什么是动态数组\DataStructure\bin\Debug\DataStructure.exe
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\数据结构\《数据结构与算法》课件资料\课程源码\第2章 动态数组\2-1 什么是动态数组\DataStructure\bin\Debug\DataStructure.pdb
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\数据结构\《数据结构与算法》课件资料\课程源码\第2章 动态数组\2-1 什么是动态数组\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\数据结构\《数据结构与算法》课件资料\课程源码\第2章 动态数组\2-1 什么是动态数组\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\数据结构\《数据结构与算法》课件资料\课程源码\第2章 动态数组\2-1 什么是动态数组\DataStructure\obj\Debug\DataStructure.exe
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\数据结构\《数据结构与算法》课件资料\课程源码\第2章 动态数组\2-1 什么是动态数组\DataStructure\obj\Debug\DataStructure.pdb

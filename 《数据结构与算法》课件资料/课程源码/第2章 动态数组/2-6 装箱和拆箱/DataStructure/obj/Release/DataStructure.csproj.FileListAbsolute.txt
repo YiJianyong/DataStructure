@@ -1,0 +1,7 @@
+C:\Users\87274\source\repos\06\DataStructure\bin\Release\DataStructure.exe.config
+C:\Users\87274\source\repos\06\DataStructure\bin\Release\DataStructure.exe
+C:\Users\87274\source\repos\06\DataStructure\bin\Release\DataStructure.pdb
+C:\Users\87274\source\repos\06\DataStructure\obj\Release\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\87274\source\repos\06\DataStructure\obj\Release\DataStructure.exe
+C:\Users\87274\source\repos\06\DataStructure\obj\Release\DataStructure.pdb
+C:\Users\87274\source\repos\06\DataStructure\obj\Release\DataStructure.csprojAssemblyReference.cache
