@@ -12,3 +12,10 @@ E:\Windows-SSD\Program Files (x86)\Common Files\Designer\数据结构\ArrayList1
 E:\Windows-SSD\Program Files (x86)\Common Files\Designer\数据结构\ArrayList1\bin\Debug\DataStructure1.exe.config
 E:\Windows-SSD\Program Files (x86)\Common Files\Designer\数据结构\ArrayList1\bin\Debug\DataStructure1.exe
 E:\Windows-SSD\Program Files (x86)\Common Files\Designer\数据结构\ArrayList1\bin\Debug\DataStructure1.pdb
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\DataStructure\DataStructure\ArrayList1\bin\Debug\DataStructure1.exe.config
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\DataStructure\DataStructure\ArrayList1\bin\Debug\DataStructure1.exe
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\DataStructure\DataStructure\ArrayList1\bin\Debug\DataStructure1.pdb
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\DataStructure\DataStructure\ArrayList1\obj\Debug\DataStructure1.csproj.AssemblyReference.cache
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\DataStructure\DataStructure\ArrayList1\obj\Debug\DataStructure1.csproj.CoreCompileInputs.cache
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\DataStructure\DataStructure\ArrayList1\obj\Debug\DataStructure1.exe
+E:\Windows-SSD\Program Files (x86)\Common Files\Designer\DataStructure\DataStructure\ArrayList1\obj\Debug\DataStructure1.pdb
