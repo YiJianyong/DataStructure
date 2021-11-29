@@ -23,5 +23,21 @@ namespace DataStructure1
             Console.Read();
 
         }
+        public static void InsertSort(Array2<int> seqList)//[o(n),o(n^2)]
+        {
+            for (int i = 1; i < seqList.Count; ++i)
+            {
+                if (seqList.Get(i) < seqList.Get(i - 1)
+                {
+                    int temp = seqList.Get(i);
+                    int j = 0;
+                    for (j = i - 1; j >= 0 && temp < seqList.Get(j); --j)
+                    {
+                        seqList. = seqList.Get(j);//make place
+                    }
+                    seqList.Get(j + 1) = temp;
+                }
+            }
+        }
     }
 }

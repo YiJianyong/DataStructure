@@ -8,5 +8,6 @@ namespace Sorting
 {
     class InsertSort
     {
+
     }
 }
